@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ComprimirProduccion": {
+      "commandName": "Project",
+      "commandLineArgs": "\"data source=NSCTHETA\\SQLNSC;Initial Catalog=dbNsc_Onbording;User ID=NSCinterno;Password=NSC$1stem@s\""
+    }
+  }
+}
